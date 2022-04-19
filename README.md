@@ -1,3 +1,3 @@
 # Webtechnologien_Abendschule
 
-Work through Part_1 to Part_5
+Work from Part_1 to Part_5
