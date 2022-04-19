@@ -1,5 +1,4 @@
-### IF.03.01 Basic Web Techniques -- Winter 2017
-# Assignment 1: Reading Assignment
+# Part 1: Reading Assignment
 
 ## Objective
 The first week's assignment is to get you familiar with a few basic terms concerning the world wide web (WWW) and Hypertext Markup Language (html).
