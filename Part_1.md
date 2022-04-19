@@ -4,7 +4,7 @@
 The first week's assignment is to get you familiar with a few basic terms concerning the world wide web (WWW) and Hypertext Markup Language (html).
 
 ## Materials
-Review the [handouts](IntroductionHandout.pdf) of the last lecture (what is basically a summary of the presentation shown) and check the resources as given in the following sections.
+Review the [handouts](IntroductionHandout.pdf) and check the resources as given in the following sections.
 
 ### Word Wide Web General
 1. Wikipedia article about World Wide Web. Read the [history section](https://en.wikipedia.org/wiki/World_Wide_Web#History) and here focus especially on the three essential technologies
