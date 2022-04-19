@@ -1,10 +1,10 @@
 # Part 4: Reading Assignment
 
 ## Objective
-This week's assignment is to get you familiar with some more advanced topics of css like classes, ids, css box model, and floating.
+Get you familiar with some more advanced topics of css like classes, ids, css box model, and floating.
 
 ## Materials
-Review the [handout](AdvancedCssHandout.pdf) of the last lecture (what is basically a summary of the presentation shown) and check the resources as given in the following sections.
+Review the [handout](AdvancedCssHandout.pdf) of the last lecture and check the resources as given in the following sections.
 
 ### Classes and IDs
 - [Class selector](https://www.w3schools.com/cssref/sel_class.asp)
