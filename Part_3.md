@@ -4,7 +4,7 @@
 This week's reading assignment is to get you into lists and tables.
 
 ## Materials
-Review the handouts of the last lecture (what is basically a summary of the presentation shown) and check the following tutorials at [w3schools.com](https://www.w3schools.com):
+Review the [handouts](https://github.com/dkleweinhtl/Webtechnologien_Abendschule/blob/main/AdvancedCssPresentation.pdf) and check the following tutorials at [w3schools.com](https://www.w3schools.com):
 
 - [Html for lists](https://www.w3schools.com/html/html_lists.asp)
 - [Css for lists](https://www.w3schools.com/css/css_list.asp)
